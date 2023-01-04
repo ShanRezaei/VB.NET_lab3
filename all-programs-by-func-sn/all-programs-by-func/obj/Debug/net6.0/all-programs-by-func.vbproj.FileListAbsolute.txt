@@ -1,0 +1,15 @@
+D:\my-vbnet-projects\my-lab2-shan-sn\all-programs-by-func-sn\all-programs-by-func\bin\Debug\net6.0\all-programs-by-func.exe
+D:\my-vbnet-projects\my-lab2-shan-sn\all-programs-by-func-sn\all-programs-by-func\bin\Debug\net6.0\all-programs-by-func.deps.json
+D:\my-vbnet-projects\my-lab2-shan-sn\all-programs-by-func-sn\all-programs-by-func\bin\Debug\net6.0\all-programs-by-func.runtimeconfig.json
+D:\my-vbnet-projects\my-lab2-shan-sn\all-programs-by-func-sn\all-programs-by-func\bin\Debug\net6.0\all-programs-by-func.dll
+D:\my-vbnet-projects\my-lab2-shan-sn\all-programs-by-func-sn\all-programs-by-func\bin\Debug\net6.0\all-programs-by-func.pdb
+D:\my-vbnet-projects\my-lab2-shan-sn\all-programs-by-func-sn\all-programs-by-func\obj\Debug\net6.0\all-programs-by-func.vbproj.AssemblyReference.cache
+D:\my-vbnet-projects\my-lab2-shan-sn\all-programs-by-func-sn\all-programs-by-func\obj\Debug\net6.0\all-programs-by-func.GeneratedMSBuildEditorConfig.editorconfig
+D:\my-vbnet-projects\my-lab2-shan-sn\all-programs-by-func-sn\all-programs-by-func\obj\Debug\net6.0\all-programs-by-func.AssemblyInfoInputs.cache
+D:\my-vbnet-projects\my-lab2-shan-sn\all-programs-by-func-sn\all-programs-by-func\obj\Debug\net6.0\all-programs-by-func.AssemblyInfo.vb
+D:\my-vbnet-projects\my-lab2-shan-sn\all-programs-by-func-sn\all-programs-by-func\obj\Debug\net6.0\all-programs-by-func.vbproj.CoreCompileInputs.cache
+D:\my-vbnet-projects\my-lab2-shan-sn\all-programs-by-func-sn\all-programs-by-func\obj\Debug\net6.0\all-programs-by-func.dll
+D:\my-vbnet-projects\my-lab2-shan-sn\all-programs-by-func-sn\all-programs-by-func\obj\Debug\net6.0\refint\all-programs-by-func.dll
+D:\my-vbnet-projects\my-lab2-shan-sn\all-programs-by-func-sn\all-programs-by-func\obj\Debug\net6.0\all-programs-by-func.pdb
+D:\my-vbnet-projects\my-lab2-shan-sn\all-programs-by-func-sn\all-programs-by-func\obj\Debug\net6.0\all-programs-by-func.genruntimeconfig.cache
+D:\my-vbnet-projects\my-lab2-shan-sn\all-programs-by-func-sn\all-programs-by-func\obj\Debug\net6.0\ref\all-programs-by-func.dll
